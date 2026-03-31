@@ -40,6 +40,7 @@ The system utilizes a **Supervisor-Worker** agent topology to efficiently route 
 ### 4. Medical Research & RAG Agent
 * **Role:** Validates findings against up-to-date medical literature.
 * **Function:** Equipped with tool-calling capabilities to search external databases (PubMed, ClinicalTrials) and utilizes Retrieval-Augmented Generation (RAG) to fetch relevant clinical guidelines from vector databases.
+<img width="1024" height="1536" alt="ChatGPT Image Mar 31, 2026, 06_18_44 PM" src="https://github.com/user-attachments/assets/15884082-2847-4860-a443-21c4e0d8df40" />
 
 ---
 
